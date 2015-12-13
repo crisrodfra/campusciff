@@ -2,7 +2,7 @@
 
 ###2.1 REPOSITORIO CAMPUSCIFF (I)1. Crear un repositorio en vuestro GitHub llamado campusciff.
 
-![MacDown logo](file:///Users/CristobalRodriguez/Desktop/resources/Crear%20Repositorio.tiff)
+![picture alt](/resources/Crear_Repositorio.png "Imagen1")
 
 ###2.2 REPOSITORIO CAMPUSCIFF (II)1. Clonar vuestro repositio en local.
 
