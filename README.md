@@ -266,4 +266,62 @@ MacBook-Pro-de-Cristobal:campusciff CristobalRodriguez$ git list
 * d4220f2 (tag: v0.1) Commit Inicial
 * 7721e11 Initial commit
 ```
-2.22 CUENTA DE GITHUB1. Poner una foto en vuestro perfil de GitHub.
+###2.22 CUENTA DE GITHUB1. Poner una foto en vuestro perfil de GitHub.
+
+![picture alt](/resources/FotoPerfil.png "Imagen2")
+
+2. Poner el doble factor de autentificación en vuestra cuenta de GitHub.
+
+![picture alt](/resources/DobleVerificacion.png "Imagen3")
+
+Se ha activado el doble factor de autenticación utilizando Google Autenticator.
+
+Se ha realizado un download de los Recovery Codes
+
+3. Añadir (si no lo habéis hecho ya) la clave pública que se corresponde a tu ordenador.
+
+![picture alt](/resources/SSHKey.png "Imagen4")
+
+###2.23 USO SOCIAL DE GITHUB1. Preguntar los nombres de usuario de GitHub de tus compañeros de clase, búscalos, y sigueles.
+
+![picture alt](/resources/following.png "Imagen11")
+2. Seguir los repositorios campusciff del resto de tus compañeros.
+
+![picture alt](/resources/fork.png "Imagen12")
+3. Añadir una estrella a los repositorios campusciff del resto de tus compañeros.
+
+![picture alt](/resources/stars.png "Imagen13")
+
+###2.24 CREAR UNA TABLA1. Crear una tabla de este estilo en el fichero README.md con la información de varios de tus compañeros de clase
+
+| NOMBRE 			| GITHUB 					|
+| :----------------	|:----------------------------------|
+| Juián Gómez	   	   | <https://CIFFjuliangomez/campusciff>|   
+| Ulises Ojeda   	| <https://github.com/ulisesojeda>  | 
+| Alejandro Diaz	   | <https://github.com/adiazgalache> |
+| Patricia Iglesias | <https://github.com/Pimateos>     |
+| Carlos Paz   		| <https://github.com/cpazsantos>   |
+
+###2.25 COLABORADORES1. Poner a github.com/asanzdiego como colaborador del repositorio campusciff
+
+![picture alt](/resources/Colaborador.png "Imagen5")
+
+###2.26 CREAR UNA ORGANIZACIÓN1. Crear una organización llamada campusciff- tunombredeusuariodegithub
+
+![picture alt](/resources/Organizacion.png "Imagen6")
+
+###2.27 CREAR EQUIPOS1. Crear 2 equipos en la organización campusciff- tunombredeusuariodegithub, uno llamado administradores con más permisos y otro colaboradores con menos permisos.
+
+![picture alt](/resources/Teams.png "Imagen7")
+
+2. Meter a github.com/asanzdiego y a 2 de vuestros compañeros de clase en el equipo administradores.
+
+![picture alt](/resources/Administradores.png "Imagen8")
+3. Meter a github.com/asanzdiego y a otros 2 de vuestros compañeros de clase en el equipo colaboradores.
+
+![picture alt](/resources/Colaboradores.png "Imagen9")
+
+###2.28 CREAR UN INDEX.HTML1. Crear un index.html que se pueda ver como página web en la organización.
+
+![picture alt](/resources/index.png "Imagen10")
+
