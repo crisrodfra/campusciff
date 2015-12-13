@@ -344,9 +344,9 @@ He realizado el fork en los siguientes repositorios:
 ![picture alt](/resources/Index2.png "Imagen93")
 4. Con cada rama hacer un pull-request.
 
-![picture alt](/resources/Pull%Request%1-2.png "Imagen92")
+![picture alt](/resources/PullRequest1.png "Imagen92")
 
-![picture alt](/resources/Pull%Request%1-2.png "Imagen93")
+![picture alt](/resources/PullRequest2.png "Imagen93")
 
 ##2.30 GESTIONAR PULL-REQUESTS1. Aceptar los pull-request que lleguen a los repositorios de tu organización.
 
