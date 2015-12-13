@@ -325,3 +325,29 @@ Se ha realizado un download de los Recovery Codes
 
 ![picture alt](/resources/index.png "Imagen10")
 
+##2.29 CREAR PULL-REQUESTS1. Hacer 2 forks de 2 repositorios campusciff- tunombredeusuariodegithub.github.io de 2 organizaciones de las que no seais ni administradiores ni colaboradores.
+
+He realizado el fork en los siguientes repositorios:
+
+* macarenagaranena/campusciff-2015-1.github.io
+
+* campusciff-ciffcesarhernandez/campusciff-ciffcesarhernandez.github.io
+2. Crearos una rama en cada fork.
+
+![picture alt](/resources/Branch1.png "Imagen90")
+
+![picture alt](/resources/Branch2.png "Imagen91")
+3. En cada rama modificar el fichero index.html añadiendo vuestro nombre.
+
+![picture alt](/resources/Index1.png "Imagen92")
+
+![picture alt](/resources/Index2.png "Imagen93")
+4. Con cada rama hacer un pull-request.
+
+![picture alt](/resources/Pull%Request%1-2.png "Imagen92")
+
+![picture alt](/resources/Pull%Request%1-2.png "Imagen93")
+
+##2.30 GESTIONAR PULL-REQUESTS1. Aceptar los pull-request que lleguen a los repositorios de tu organización.
+
+![picture alt](/resources/Aceptar.png "Imagen93")
